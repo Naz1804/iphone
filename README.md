@@ -1,8 +1,37 @@
-# React + Vite
+# iPhone 15 Pro Landing Page
+This project is a clone of the Apple iPhone 15 Pro landing page, created by following _[Adrian Hajdin](https://github.com/adrianhajdin/iphone)_'s tutorial. It helped me learn and implement `GSAP` animations and integrate 3D objects using `Three.js` within a `React` project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Credit goes to Adrian Hajdin for the original project and tutorial. This clone serves as a learning exercise to understand `GSAP`, `Three.js`, and their applications in web development.
 
-Currently, two official plugins are available:
+# Tech Stack
+* React.js
+* Three.js
+* React Three Fibre
+* React Three Drei
+* GSAP (Greensock)
+* Vite
+* Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Installation
+
+Make sure you have `Git`, `Node.js`, `npm`(Node Package Manager) onto your system.
+
+Cloning the repositry
+```sh
+git clone https://github.com/Naz1804/iphone.git
+```
+
+Then install the dependencies using npm:
+```sh
+npm install
+```
+
+And to run:
+```sh
+npm run dev
+```
+
+`ctrl` click onto the localhost link to view the project.
+
+# More
+To learn more about this project click on this _[Link](https://github.com/adrianhajdin/iphone)_ it will redirect you to Adrain Hajdin repository of the origanl project.
